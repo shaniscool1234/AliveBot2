@@ -1,16 +1,16 @@
 {
   "bot-account": {
-    "username": "ShanniesAFKBOT", 
+    "username": "ShanniesAFKBOT",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "DunkinServer.aternos.me", 
-    "port": 17634,   
-    "version": "1.12.1"   
+    "ip": "DunkinServer.aternos.me",
+    "port": 17634,
+    "version": "1.12.1"
   },
-  
+
   "position": {
     "enabled": false,
     "x": 0,
@@ -33,7 +33,6 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 60,
-
       "messages": [
         "I am a Keep Alive Server Bot",
         "Shan is cool",
@@ -43,6 +42,6 @@
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-reconnect-delay": 5000
   }
 }
