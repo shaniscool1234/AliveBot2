@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "ShanniesAFKBOT",
+    "username": "AFKBOT",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "DunkinServer.aternos.me",
-    "port": 17634,
+    "ip": "LifeStealShan.aternos.me",
+    "port": 47881,
     "version": "1.12.1"
   },
 
@@ -34,10 +34,9 @@
       "repeat": true,
       "repeat-delay": 60,
       "messages": [
-        "my purpose is to keep this server alive YEAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
-        "Shan is cool",
-        "I Like to Play Minecraft!",
-        "i am NOT GAY"
+        "LifeSteal SMP its FUN!",
+        "Shan is the Owner",
+        "when you kill someone you gain 1 heart and they lose 1 heart"
       ]
     },
 
